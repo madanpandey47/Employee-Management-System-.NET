@@ -1,0 +1,1 @@
+This is a simple C# console application that manages employee records using basic object-oriented programming (OOP) concepts. It demonstrates how to add, display, remove, and save employee data using a dictionary-based in-memory data structure.
