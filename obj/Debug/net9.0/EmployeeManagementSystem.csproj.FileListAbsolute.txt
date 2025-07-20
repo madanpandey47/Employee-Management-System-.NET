@@ -1,0 +1,14 @@
+C:\Users\ZEUS\Desktop\.NET\EmployeeManagementSystem\bin\Debug\net9.0\EmployeeManagementSystem.exe
+C:\Users\ZEUS\Desktop\.NET\EmployeeManagementSystem\bin\Debug\net9.0\EmployeeManagementSystem.deps.json
+C:\Users\ZEUS\Desktop\.NET\EmployeeManagementSystem\bin\Debug\net9.0\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\ZEUS\Desktop\.NET\EmployeeManagementSystem\bin\Debug\net9.0\EmployeeManagementSystem.dll
+C:\Users\ZEUS\Desktop\.NET\EmployeeManagementSystem\bin\Debug\net9.0\EmployeeManagementSystem.pdb
+C:\Users\ZEUS\Desktop\.NET\EmployeeManagementSystem\obj\Debug\net9.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZEUS\Desktop\.NET\EmployeeManagementSystem\obj\Debug\net9.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ZEUS\Desktop\.NET\EmployeeManagementSystem\obj\Debug\net9.0\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\ZEUS\Desktop\.NET\EmployeeManagementSystem\obj\Debug\net9.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ZEUS\Desktop\.NET\EmployeeManagementSystem\obj\Debug\net9.0\EmployeeManagementSystem.dll
+C:\Users\ZEUS\Desktop\.NET\EmployeeManagementSystem\obj\Debug\net9.0\refint\EmployeeManagementSystem.dll
+C:\Users\ZEUS\Desktop\.NET\EmployeeManagementSystem\obj\Debug\net9.0\EmployeeManagementSystem.pdb
+C:\Users\ZEUS\Desktop\.NET\EmployeeManagementSystem\obj\Debug\net9.0\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\ZEUS\Desktop\.NET\EmployeeManagementSystem\obj\Debug\net9.0\ref\EmployeeManagementSystem.dll
